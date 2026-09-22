@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi, I'm Sunny Johnson Kumpati.<br>
 I'm a 3rd-year **Computer Science (Honours)** student at the **University of Windsor**, focused on **Machine Learning**, **Deep Learning**, and **Computer Vision**. I build end-to-end ML projects — from data and model training to deployment — and I'm currently seeking a **Winter 2027 co-op** as an **AI/ML Software Engineer, ML Intern, or Computer Vision Engineer**. 🇨🇦 Based in Canada, open to co-op.
 
